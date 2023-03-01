@@ -1,6 +1,5 @@
-![My Header](./header.png)
-
-<!--
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=FDFDFD&background=0C0C39&center=true&vCenter=true&width=1500&height=200&lines=Welcome👋+I+am+Hamza+Hassanain+🙂;Back-End+Developer+🤓)](https://git.io/typing-svg)
+  <!--
 **Hamzawy00/Hamzawy00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
