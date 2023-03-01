@@ -2,6 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=Hamzawy00&color=blue&style=for-the-badge)
 
+<div align = "center" style="width:50%">
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=Hamzawy00&theme=transparent&border_radius=6.8&mode=weekly" style="width:60%"/>
+</div>
+
+
 
 ## My Problem Solving Profiles: 
 <div align = "center" width = 100%>
