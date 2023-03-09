@@ -8,7 +8,7 @@
 
 ### Projects are coming 👀 🤌
 
-## My Problem Solving Profiles: 
+## My Problem Competitive Programming: 
 <div align = "center" width = 100%>
   <a target="_black" href="https://codeforces.com/profile/Hamzawy00"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
 	  &emsp; 
