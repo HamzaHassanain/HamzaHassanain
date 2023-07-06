@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=FDFDFD&background=0C0C39&center=true&vCenter=true&width=1500&height=200&lines=Welcome👋+I+am+Hamza+Hassanain+🙂;Back-End+Developer;Competitive+Programmer+🤓)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=FDFDFD&background=0C0C39&center=true&vCenter=true&width=1500&height=200&lines=Welcome👋+I+am+Hamza+Hassanain;Competitive+Programmer+🤓)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=Hamzawy00&color=blue&style=for-the-badge)
 
