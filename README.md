@@ -6,7 +6,7 @@
 	<img src="https://github-readme-streak-stats.herokuapp.com?user=Hamzawy00&theme=transparent&border_radius=6.8&mode=weekly" style="width:60%"/>
 </div>
 
-### Projects are coming 👀 🤌
+
 
 ## My Problem Competitive Programming: 
 <div align = "center" width = 100%>
