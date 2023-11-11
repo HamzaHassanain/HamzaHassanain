@@ -5,7 +5,6 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <p>
-<br><br>
 Aspiring Computer Science student and competitive programmer with a passion for continuous learning and exploration of diverse technologies. Eager to contribute as a valuable team member engaged in a spectrum of projects featuring cutting-edge technologies. Known for excellent problem-solving and analytical abilities, complemented by strong communication skills. Seeking an internship opportunity to apply and enhance technical expertise while actively contributing to innovative software development projects.
 <br>
 </p>
@@ -46,8 +45,7 @@ Aspiring Computer Science student and competitive programmer with a passion for 
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming languages
 
-<p align="center"> 
- 
+<p align="center">  
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
