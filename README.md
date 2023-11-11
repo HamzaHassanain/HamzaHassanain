@@ -2,7 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=Hamzawy00&color=blue&style=for-the-badge)
 
+<div style="width:100%;display:flex;align-items:center;justify-content:center">
+	
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Hamzawy00&theme=dark&mode=weekly&ring=1909EB&currStreakLabel=1909EB&fire=1909EB" alt="GitHub Streak" /></a>
+</div>
 
 ## My Competitive Programming Profiles: 
 <div align = "center" width = 100%>
