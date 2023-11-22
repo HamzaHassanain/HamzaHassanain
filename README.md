@@ -3,29 +3,14 @@
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
-
 <p>
 Aspiring Computer Science student and competitive programmer with a passion for continuous learning and exploration of diverse technologies. Eager to contribute as a valuable team member engaged in a spectrum of projects featuring cutting-edge technologies. Known for excellent problem-solving and analytical abilities, complemented by strong communication skills. Seeking an internship opportunity to apply and enhance technical expertise while actively contributing to innovative software development projects.
 <br>
 </p>
 <br>
-
 <!-- ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> Top Repositories
 <a teget="_black" href=""></a>
  -->
-
-## My Competitive Programming Profiles:
-
-<div align = "center" width = 100%>
-  <a target="_black" href="https://codeforces.com/profile/Hamzawy00"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=10%/></a>
-	  &emsp; 
- <a target="_black" href="https://atcoder.jp/users/Hamzawy00"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width=10%/></a>
-	  &emsp; 
-    <a target="_black" href="https://www.codechef.com/users/hamzawy00"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width=10%/></a>
-	  &emsp;
-
-</div>
-
 <hr>
 <br>
 
