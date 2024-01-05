@@ -18,7 +18,7 @@ Aspiring Computer Science student and competitive programmer with a passion for 
 
 <p align="center">
 	<a href="mailto:hamzahassanain067@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Hamzawy00"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://github.com/HamzaHassanain"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/0201272473302"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/in/hamza-hassanain-ha067/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/hamza.hasanain/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
@@ -85,11 +85,11 @@ Aspiring Computer Science student and competitive programmer with a passion for 
 
 <p align="center">
   &emsp;
-    <a href="https://codeforces.com/profile/Hamzawy00"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
+    <a href="https://codeforces.com/profile/HamzaHassanain"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
   &emsp;
-    <a href="https://leetcode.com/Hamzawy00/"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
+    <a href="https://leetcode.com/HamzaHassanain/"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
   &emsp;
-    <a href="https://www.codechef.com/users/hamzawy00"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
+    <a href="https://www.codechef.com/users/HamzaHassanain"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
 </p>
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=5%> Operating Systems
@@ -110,6 +110,6 @@ Aspiring Computer Science student and competitive programmer with a passion for 
 <br>
 <div style="width:100%;display:flex;align-items:center;justify-content:center">
 	
-[![Hamzawy00 github stats](https://github-readme-stats.vercel.app/api?username=Hamzawy00&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![HamzaHassanain github stats](https://github-readme-stats.vercel.app/api?username=HamzaHassanain&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
