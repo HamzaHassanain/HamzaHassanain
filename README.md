@@ -85,11 +85,11 @@ Aspiring Computer Science student and competitive programmer with a passion for 
 
 <p align="center">
   &emsp;
-    <a href="https://codeforces.com/profile/HamzaHassanain"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
+    <a href="https://codeforces.com/profile/Hamza_Hassanain"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
   &emsp;
-    <a href="https://leetcode.com/HamzaHassanain/"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
+    <a href="https://leetcode.com/Hamza_Hassanain/"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
   &emsp;
-    <a href="https://www.codechef.com/users/HamzaHassanain"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
+    <a href="https://www.codechef.com/users/Hamzawy00"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
 </p>
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=5%> Operating Systems
