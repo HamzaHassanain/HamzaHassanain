@@ -79,8 +79,11 @@ Aspiring Computer Science student and competitive programmer with a passion for 
   <a href="#"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" width="70"> </a>
   &emsp;
   <a href="#"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" width="70"> </a>
+     <br/>
    <a href="#"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="70"> </a>                                  
    <a href="#"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="70"> </a>
+	<a href="#"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"> </a>
+	<br/>
     <a href="#"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> </a>
 </p>
 
