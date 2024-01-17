@@ -115,8 +115,42 @@ Aspiring Computer Science student and competitive programmer with a passion for 
 ---
 
 <br>
-<div style="width:100%;display:flex;align-items:center;justify-content:center">
-	
-[![HamzaHassanain github stats](https://github-readme-stats.vercel.app/api?username=HamzaHassanain&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### :fire: My Stats :
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaHassanain&layout=compact&theme=radical&card_width=200px" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HamzaHassanain&show_icons=true&theme=radical&card_width=250px" alt="HamzaHassanain's GitHub stats" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaHassanain&theme=radical&card_width=520px" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=HamzaHassanain&theme=radical&row=1" alt="Trophy" />
+  </a>
+</p>
+
+---
+<!--  
+### :sparkles: My Repositories :
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaHassanain&repo=Little-Lemon&theme=radical" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaHassanain&repo=little-lemon-API&theme=radical" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaHassanain&repo=Codeforces-Tasks-API&theme=radical" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaHassanain&repo=CP-Templates&theme=radical" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaHassanain&repo=The-Final-Project-ODC&theme=radical" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaHassanain&repo=Hotel-Reservation-System&theme=radical" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=Whats-app-add-members-Script&theme=radical" /> 
 </div>
+
+-->
