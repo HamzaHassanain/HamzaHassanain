@@ -133,6 +133,7 @@ Aspiring Computer Science student and competitive programmer with a passion for 
   </a>
 </p>
 
+<!--  
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=HamzaHassanain&theme=radical&row=1" alt="Trophy" />
@@ -140,7 +141,7 @@ Aspiring Computer Science student and competitive programmer with a passion for 
 </p>
 
 ---
-<!--  
+
 ### :sparkles: My Repositories :
 
 <div align="center">
