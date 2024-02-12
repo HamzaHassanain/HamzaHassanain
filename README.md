@@ -4,7 +4,31 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 <p>
-Aspiring Computer Science student and competitive programmer with a passion for continuous learning and exploration of diverse technologies. Eager to contribute as a valuable team member engaged in a spectrum of projects featuring cutting-edge technologies. Known for excellent problem-solving and analytical abilities, complemented by strong communication skills. Seeking an internship opportunity to apply and enhance technical expertise while actively contributing to innovative software development projects.
+Enthusiastic and driven, I am an aspiring Back-End Developer, Computer Science student, and competitive programmer fueled by an insatiable passion for continuous learning and exploring diverse technologies. My journey has been marked by a commitment to excellence, strong problem-solving skills, and an eagerness to contribute meaningfully to cutting-edge projects.
+
+Currently seeking an internship opportunity to apply and enhance my technical expertise while actively contributing to innovative software development projects. My diverse skill set, and strong foundation in computer science, make me a valuable asset for any team or project. Let's connect and explore opportunities for collaboration and growth!
+
+Achievements:
+
+Reached Expert 💙 Rank on Codeforces, showcasing my prowess in competitive programming.
+
+Qualified for the ECPC (Egyptian Collegiate Programming Contest), securing a remarkable 5th rank out of 230+ teams during the qualification phase.
+
+Skills:
+
+Programming Languages: JavaScript, Node.js, Python, C++, SQL, HTML, CSS
+
+Frameworks and Databases: Express.js, Django, MongoDB, MySQL
+
+Programming Concepts: REST API, OOP, OOD, Data Structures, Algorithms, SOLID Design Principles, Clean Code
+
+Tools: Git, GitHub, Render, Supabase
+
+Personal Skills: Fast Learning, Adaptability, Time management, Problem-solving, Research, Planning, and Organizing
+
+Operating Systems: Linux, Windows
+
+Spoken Languages: Arabic (Native), English (Advanced)
 <br>
 </p>
 <br>
