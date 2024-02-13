@@ -1,4 +1,4 @@
-![Header](banner.png)
+![Header](header.png)
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
@@ -10,26 +10,26 @@ Currently seeking an internship opportunity to apply and enhance my technical ex
 
 Achievements:
 
-Reached Expert 💙 Rank on Codeforces, showcasing my prowess in competitive programming.
+Reached <strong>Expert</strong> 💙 Rank on Codeforces, showcasing my prowess in competitive programming.
 
-Qualified for the ECPC (Egyptian Collegiate Programming Contest), securing a remarkable 5th rank out of 230+ teams during the qualification phase.
+Qualified for the <strong>ECPC</strong> (Egyptian Collegiate Programming Contest), securing a remarkable <strong>5th rank out of 230+</strong> teams during the qualification phase.
 
 Skills:
 
-Programming Languages: JavaScript, Node.js, Python, C++, SQL, HTML, CSS
+<strong> Programming Languages</strong>: JavaScript, Node.js, Python, C++, SQL, HTML, CSS
 
-Frameworks and Databases: Express.js, Django, MongoDB, MySQL
+<strong>Frameworks and Databases</strong>: Express.js, Django, MongoDB, MySQL
 
-Programming Concepts: REST API, OOP, OOD, Data Structures, Algorithms, SOLID Design Principles, Clean Code
+<strong>Programming Concepts</strong>: REST API, OOP, OOD, Data Structures, Algorithms, SOLID Design Principles, Clean Code
 
-Tools: Git, GitHub, Render, Supabase
+<strong>Tools</strong>: Git, GitHub, Render, Supabase
 
-Personal Skills: Fast Learning, Adaptability, Time management, Problem-solving, Research, Planning, and Organizing
+<strong>Personal Skills</strong>: Fast Learning, Adaptability, Time management, Problem-solving, Research, Planning, and Organizing
 
-Operating Systems: Linux, Windows
+<strong>Operating Systems</strong>: Linux, Windows
 
-Spoken Languages: Arabic (Native), English (Advanced)
 <br>
+
 </p>
 <br>
 <!-- ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> Top Repositories
@@ -140,7 +140,6 @@ Spoken Languages: Arabic (Native), English (Advanced)
 
 <br>
 
-
 ### :fire: My Stats :
 
 <p align="center">
@@ -157,7 +156,7 @@ Spoken Languages: Arabic (Native), English (Advanced)
   </a>
 </p>
 
-<!--  
+<!--
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=HamzaHassanain&theme=radical&row=1" alt="Trophy" />
@@ -175,7 +174,7 @@ Spoken Languages: Arabic (Native), English (Advanced)
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaHassanain&repo=CP-Templates&theme=radical" />
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaHassanain&repo=The-Final-Project-ODC&theme=radical" />
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaHassanain&repo=Hotel-Reservation-System&theme=radical" />
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=Whats-app-add-members-Script&theme=radical" /> 
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarAlaraby&repo=Whats-app-add-members-Script&theme=radical" />
 </div>
 
 -->
