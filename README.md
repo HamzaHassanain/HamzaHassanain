@@ -12,6 +12,12 @@ Achievements:
 
 Reached <strong>Expert</strong> 💙 Rank on Codeforces, showcasing my prowess in competitive programming.
 
+<strong>ECPC 2024 (Egyptian Collegiate Programming Contest):</strong>
+
+Qualified to the <strong>ACPC</strong> (Africa and Arab Collegiate Programming Championship) After achieving <strong>17th</strong> place amongst almost <strong>500</strong> Participating Teams
+
+<strong>ECPC 2023 (Egyptian Collegiate Programming Contest):</strong>
+
 Qualified for the <strong>ECPC</strong> (Egyptian Collegiate Programming Contest), securing a remarkable <strong>5th rank out of 230+</strong> teams during the qualification phase.
 
 Skills:
