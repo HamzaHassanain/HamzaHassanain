@@ -10,7 +10,6 @@ Currently seeking an internship opportunity to apply and enhance my technical ex
 
 Achievements:
 
-Reached <strong>Expert</strong> 💙 Rank on Codeforces, showcasing my prowess in competitive programming.
 
 <strong>ECPC 2024 (Egyptian Collegiate Programming Contest):</strong>
 Qualified to the <strong>ACPC</strong> (Africa and Arab Collegiate Programming Championship) After achieving <strong>17th</strong> place amongst almost <strong>500</strong> Participating Teams
