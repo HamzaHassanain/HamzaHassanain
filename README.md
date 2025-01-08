@@ -81,7 +81,7 @@ Skills:
   &emsp;
     <a href="https://leetcode.com/Hamza_Hassanain/"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
   &emsp;
-    <a href="https://www.codechef.com/users/Hamzawy00"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
+    <a href="https://www.codechef.com/users/hamza_hasanain"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
 </p>
 
 
