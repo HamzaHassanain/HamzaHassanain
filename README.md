@@ -192,7 +192,7 @@ Skills:
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaHassanain&repo=Leetcode_SQL_50_Study_Plan&theme=radical" />
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaHassanain&repo=Hamza-Hassanian-Website&theme=radical" />
-<!--    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaHassanain&repo=CP_Templates&theme=radical" /> -->
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaHassanain&repo=CP_Templates&theme=radical" />
 
 </div>
 
