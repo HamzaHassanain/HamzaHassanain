@@ -69,12 +69,11 @@ Skills:
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 
 <p align="center">
-	<a href="mailto:hamzahassanain067@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/HamzaHassanain"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/hamza-hassanain-ha067/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/hamza.hasanain/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-		<a href="https://x.com/HamzaHassanain0"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
-" alt="X"/></a>
+	<a href="mailto:hamzahassanain067@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/hamza-hassanain-ha067/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/hamza.hasanain/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<!-- <a href="https://x.com/HamzaHassanain0"><img src="https://img.shields.io/badge/Twitter%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Twitter"/></a> -->
+	<a href="https://x.com/HamzaHassanain0"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 
 </p>
 
