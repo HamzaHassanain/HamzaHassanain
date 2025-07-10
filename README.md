@@ -73,7 +73,8 @@ Skills:
 	<a href="https://github.com/HamzaHassanain"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/hamza-hassanain-ha067/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/hamza.hasanain/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-		<a href="https://x.com/HamzaHassanain0"><img src="https://img.shields.io/badge/Twitter%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Twitter"/></a>
+		<a href="https://x.com/HamzaHassanain0"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
+" alt="X"/></a>
 
 </p>
 
