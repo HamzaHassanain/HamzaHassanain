@@ -1,19 +1,30 @@
-# Hi 👋, I'm Hamza Hassanain
+<div align="center">
 
-**Systems & Backend Engineer** — compilers, memory, and high-performance C++
-2× ACPC Finalist · Undergraduate Software Engineer @ Suez Canal University · Cairo, Egypt 🇪🇬
+# Hamza Hassanain
 
-I work close to the metal — a memory allocator, a POSIX shell, a C++ web framework — and I take
-those instincts upstream to **LLVM/Clang** and **Apple's Swift NIO**. On the side I set and test
-problems for regional ICPC-style contests.
+**Systems &amp; Backend Engineer** — compilers, memory, and high-performance C++
+Undergraduate Software Engineer @ Suez Canal University · Cairo, Egypt 🇪🇬 · 2× ACPC Finalist
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-hassanain-ha067)
+[![X](https://img.shields.io/badge/X-0A0A0A?style=flat-square&logo=x&logoColor=white)](https://x.com/HamzaHassanain0)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/hamzahassanain0)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Hmzaawy-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Hmzaawy)
+[![GitLab](https://img.shields.io/badge/GitLab-HamzaHassanain-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/HamzaHassanain)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hamzahassanain067@gmail.com)
+
+</div>
+
+I work close to the metal — a memory allocator, a POSIX shell, a C++ web framework — and I take those
+instincts upstream to **LLVM/Clang**, **Apple's Swift NIO**, and **GitLab**. Day to day I build judge
+and code-execution infrastructure, and on the side I set and test problems for regional ICPC-style contests.
 
 ---
 
-### 🔩 Upstream contributions
+## 🔩 Upstream open-source contributions
 
-Every link below is a **merged** pull request — click through, they're real.
+> Every link below is a **merged** pull/merge request — they survive the click.
 
-**[LLVM / Clang](https://github.com/llvm/llvm-project/pulls?q=is%3Apr+author%3AHamzaHassanain)** · compiler codegen & tooling
+### <img src="https://img.shields.io/badge/LLVM%20%2F%20Clang-262D3A?logo=llvm&logoColor=white" height="20"/> &nbsp;compiler codegen &amp; tooling
 
 | PR | Area | Contribution |
 | :-- | :-- | :-- |
@@ -22,56 +33,143 @@ Every link below is a **merged** pull request — click through, they're real.
 | [#178430](https://github.com/llvm/llvm-project/pull/178430) | ARM | Replace manual CLS expansion with `ISD::CTLS` |
 | [#173473](https://github.com/llvm/llvm-project/pull/173473) | LLDB | SWIG Python-extension tests for `SBTarget` |
 
-**[Apple / Swift NIO](https://github.com/apple/swift-nio/pull/3410)** · [#3410](https://github.com/apple/swift-nio/pull/3410) — idempotent directory creation in `NIOFileSystem`.
+### <img src="https://img.shields.io/badge/Apple%20Swift%20NIO-F05138?logo=swift&logoColor=white" height="20"/>
+
+[`#3410`](https://github.com/apple/swift-nio/pull/3410) — idempotent directory creation in `NIOFileSystem`.
+
+### <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white" height="20"/> &nbsp;11 merged MRs across 3 `gitlab-org` projects
+
+- **[Go SDK — `client-go`](https://gitlab.com/gitlab-org/api/client-go)** — 6 MRs adding typed group-integration support to GitLab's official Go client: **Slack, Jira, Microsoft Teams, Mattermost, Harbor**, and **Discord / Telegram / Matrix / Google Chat** (structs + `IntegrationsService` methods).
+- **[Terraform provider](https://gitlab.com/gitlab-org/terraform-provider-gitlab)** — 3 MRs: new `gitlab_group_integration_harbor` &amp; `gitlab_group_integration_mattermost` resources, plus a group-SAML-identity attribute on the membership data source.
+- **[GitLab monorepo](https://gitlab.com/gitlab-org/gitlab)** — 2 code-quality fixes (`Gitlab::Json.safe_parse` hardening; Vue `require-name-property` compliance).
+
+<details>
+<summary><b>All 11 merge requests →</b></summary>
+
+<br>
+
+**`gitlab-org/api/client-go` · Go SDK**
+
+| MR | Contribution |
+| :-- | :-- |
+| [!2692](https://gitlab.com/gitlab-org/api/client-go/-/merge_requests/2692) | Slack integration — `Slack*` structs + `GetGroupSlackSettings` / `SetGroupSlackSettings` / `DisableGroupSlack` |
+| [!2691](https://gitlab.com/gitlab-org/api/client-go/-/merge_requests/2691) | Discord / Telegram / Mattermost / Matrix / Google Chat structs + read-only `GetGroup*Settings` methods |
+| [!2679](https://gitlab.com/gitlab-org/api/client-go/-/merge_requests/2679) | Microsoft Teams integration structs + typed return; fixed the `microsoft-teams` endpoint path |
+| [!2677](https://gitlab.com/gitlab-org/api/client-go/-/merge_requests/2677) | Jira integration structs + typed `GetGroupJiraSettings` return |
+| [!2675](https://gitlab.com/gitlab-org/api/client-go/-/merge_requests/2675) | Group Mattermost notifications + slash-commands — structs and `Get`/`Set`/`Delete` methods |
+| [!2670](https://gitlab.com/gitlab-org/api/client-go/-/merge_requests/2670) | Harbor integration structs + typed `GetGroupHarborSettings` return |
+
+**`gitlab-org/terraform-provider-gitlab` · IaC**
+
+| MR | Contribution |
+| :-- | :-- |
+| [!2909](https://gitlab.com/gitlab-org/terraform-provider-gitlab/-/merge_requests/2909) | New `gitlab_group_integration_mattermost` resource (Plugin-Framework CRUD + acceptance test) |
+| [!2881](https://gitlab.com/gitlab-org/terraform-provider-gitlab/-/merge_requests/2881) | New `gitlab_group_integration_harbor` resource (CRUD + import + acceptance test) |
+| [!2852](https://gitlab.com/gitlab-org/terraform-provider-gitlab/-/merge_requests/2852) | Group SAML identity attribute on the `gitlab_group_membership` data source |
+
+**`gitlab-org/gitlab` · monorepo**
+
+| MR | Contribution |
+| :-- | :-- |
+| [!221163](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/221163) | Ruby — `Gitlab::Json.parse` → `safe_parse` in the discussions-diff highlight cache |
+| [!221158](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/221158) | Vue — `require-name-property` compliance across deployment UI components |
+
+</details>
 
 ---
 
-### 🛠️ Featured projects
+## 💼 Experience
 
-**Systems / C++**
+### Repovive — Backend &amp; Infrastructure Engineer <sub>· competitive-programming judge &amp; contest platform</sub>
 
-- **[HAllocator](https://github.com/HamzaHassanain/HAllocator)** — an STL-compatible C++23 memory allocator: red-black-tree best-fit search + adjacent-free-block coalescing, covered by GoogleTest.
-- **[Hesh](https://github.com/HamzaHassanain/hesh)** — a POSIX shell written from scratch to explore process control, pipes, and syscalls.
-- **[cppress](https://github.com/HamzaHassanain/cppress)** — an Express.js-style backend web framework for C++, built on my own [socket](https://github.com/HamzaHassanain/hamza-socket-lib), [HTTP-server](https://github.com/HamzaHassanain/hamza-http-server-lib), [JSON](https://github.com/HamzaHassanain/hamza-json-parser), and [HTML-builder](https://github.com/HamzaHassanain/hamza-html-builder) libraries.
-
-**Tools & platforms**
-
-- **Repovive** ([@Repovive](https://github.com/Repovive)) — a competitive-programming platform I'm building: an online judge on top of Judge0, a contest builder, and an AI problem-authoring assistant.
-- **[Polyman](https://github.com/HamzaHassanain/polyman)** ⭐33 — a CLI that lets Codeforces problem setters create, test, and push problems to Polygon without leaving the terminal.
-
-**Most-used**
-
-- **[LeetCode SQL 50](https://github.com/HamzaHassanain/Leetcode_SQL_50_Study_Plan)** ⭐46 &nbsp;·&nbsp; **[CP Templates](https://github.com/HamzaHassanain/CP_Templates)** ⭐18
+- Led end-to-end design and build of Repovive's **judge infrastructure** — a code-execution and auto-grading system with isolated sandboxes, multi-language compilation, and agentic test-case generation — scaling concurrent executions **~10× (50 → 500+)**.
+- Re-architected the platform from **serverless to a self-managed Docker / Nginx / Redis stack**, cutting infrastructure cost **~95%** while increasing throughput.
+- Sandboxed **20+ languages** with resource-limited Docker images; redesigned the data layer to serve **50 MB+** premium contest test-case sets.
+- Built a **real-time collaborative workspace** — WebSockets + **Yjs CRDTs** for conflict-free sync and a Monaco-based editor for live multi-user editing.
+- **Co-founded Repovive Build v2**, an AI-assisted IDE for problem authoring: an event-driven agent pipeline of **28 tools**, guarded by server-side execution locks + atomic cancellation, sustaining **10-minute streaming agent sessions**.
 
 ---
 
-### 🏆 Competitive programming
+## 🛠️ Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [HAllocator](https://github.com/HamzaHassanain/HAllocator)
+An STL-compatible **C++23 memory allocator** — red-black-tree best-fit search with adjacent-free-block coalescing, covered by GoogleTest.
+
+![C++23](https://img.shields.io/badge/C%2B%2B-23-00599C?logo=cplusplus&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white) ![Tested](https://img.shields.io/badge/GoogleTest-4285F4?logo=google&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🐚 [Hesh](https://github.com/HamzaHassanain/hesh)
+A **POSIX shell** written from scratch to explore process control, pipes, redirection, and raw syscalls.
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-syscalls-FCC624?logo=linux&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [cppress](https://github.com/HamzaHassanain/cppress)
+An **Express.js-style web framework for C++**, built on my own [socket](https://github.com/HamzaHassanain/hamza-socket-lib), [HTTP-server](https://github.com/HamzaHassanain/hamza-http-server-lib), [JSON](https://github.com/HamzaHassanain/hamza-json-parser) and [HTML-builder](https://github.com/HamzaHassanain/hamza-html-builder) libraries — all from scratch.
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white) ![Zero deps](https://img.shields.io/badge/deps-none-success)
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ [CP Judge — AWS Reference Architecture](https://github.com/HamzaHassanain/Competitive-Programming-Judge-AWS-Reference-Architecture)
+A full **AWS reference architecture** for a contest judge (Manara AWS SAA capstone): Judge0 `isolate` on ECS-on-EC2, Fargate orchestrator, Spot mixed-ASG scaled on queue depth, Step Functions + Bedrock cheating-detection. 7 views · 9 design decisions.
+
+![AWS](https://img.shields.io/badge/AWS-Well--Architected-232F3E?logo=amazonwebservices&logoColor=white) ![SAA](https://img.shields.io/badge/Solutions-Architect-FF9900?logo=amazonaws&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 [SigmaLoop](https://github.com/sigma-loop) &nbsp;·&nbsp; [live ↗](https://sigmaloop.dpdns.org/)
+A personalized **AI tutor** that generates entire programming-and-math curricula on demand — code graded in a Judge0 sandbox, math proofs by a confidence-scored LLM, hints from a self-fine-tuned **Qwen2.5-Coder-7B**. *(Team project.)*
+
+![React 19](https://img.shields.io/badge/React-19-2dd4bf?logo=react&logoColor=white) ![Node](https://img.shields.io/badge/Node-Express-6366f1?logo=nodedotjs&logoColor=white) ![AI](https://img.shields.io/badge/AI-Qwen%20%2F%20DeepSeek-3b82f6)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ [Polyman](https://github.com/HamzaHassanain/polyman) &nbsp;![stars](https://img.shields.io/github/stars/HamzaHassanain/polyman?style=flat-square&label=%E2%AD%90&color=f59e0b)
+A **CLI for Codeforces problem setters** — create, test, and push problems to Polygon without leaving the terminal.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![CLI](https://img.shields.io/badge/CLI-tool-black)
+
+</td>
+</tr>
+</table>
+
+<sub>Also: <b><a href="https://github.com/HamzaHassanain/Leetcode_SQL_50_Study_Plan">LeetCode SQL 50</a></b> ⭐46 · <b><a href="https://github.com/HamzaHassanain/CP_Templates">CP Templates</a></b> ⭐18</sub>
+
+---
+
+## 🏆 Competitive programming
 
 - **2× ACPC Finalist** (Arab Collegiate Programming Contest)
-- **Problem setter & tester** for **ECPC** and **ACPC**
+- **Problem setter &amp; tester** for **ECPC** and **ACPC**
 - Codeforces — **[Hmzaawy](https://codeforces.com/profile/Hmzaawy)**
 
 ---
 
-### 🧰 Tech
+## 🧰 Tech
 
-- **Primary** — C++ (17/23), Rust, LLVM/Clang, CMake, Linux internals, memory management
-- **Backend** — Node.js, TypeScript, PostgreSQL, Redis, MongoDB, Docker
-- **Also** — Python, SQL, Go, GitHub Actions
+- **Primary** — C++ (17/23), Rust, Go, LLVM/Clang, CMake, Linux internals, memory management
+- **Backend &amp; infra** — Node.js, TypeScript, PostgreSQL, Redis, MongoDB, Docker, Nginx, AWS
+- **Also** — Python, SQL, Terraform, WebSockets / CRDTs, GitHub Actions
 
 ---
 
-### ✍️ Writing
+## ✍️ Writing
 
 I write about systems programming — currently working through *What Every Programmer Should Know
 About Memory* — on **[Dev.to](https://dev.to/hamzahassanain0)**.
-
----
-
-### 📫 Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-hassanain-ha067)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/HamzaHassanain0)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/hamzahassanain0)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Hmzaawy)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzahassanain067@gmail.com)
