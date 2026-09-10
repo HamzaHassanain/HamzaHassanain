@@ -10,7 +10,7 @@ Cairo, Egypt 🇪🇬 · 2× ACPC Finalist
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-hassanain-ha067)
 [![X](https://img.shields.io/badge/X-0A0A0A?style=flat-square&logo=x&logoColor=white)](https://x.com/HamzaHassanain0)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/hamzahassanain0)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Hmzaawy-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Hmzaawy)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Hmzaawy-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/GreatShinobiOwl)
 [![GitLab](https://img.shields.io/badge/GitLab-HamzaHassanain-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/HamzaHassanain)
 
 </div>
